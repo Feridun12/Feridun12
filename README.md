@@ -8,8 +8,7 @@
 - 👯 I’m looking to collaborate on any web development project
 - 🥅 2022 Goals: Learn more about web development and join open-sourced projects
 - 📝 Check out my [blog](https://hashnode.com/@Feridun)! 
-- 👾 Hobbies: coding, gaming and offroading
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 👾 Hobbies: coding, gaming and Off-roading
 
 ### Connect with me:
 
@@ -38,7 +37,8 @@
 
 
 
- ### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Feridun12&layout=compact)](https://github.com/Feridun12/github-readme-stats)
+ ##
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Feridun12&layout=compact)](https://github.com/Feridun12/github-readme-stats)
 
 
 ### Github stats

@@ -14,3 +14,9 @@
 ### Connect with me:
 
 [![website](./img/linkedin-logo-512x512.png)](https://www.linkedin.com/in/feridun-canselen-73666b200/)
+
+[![website](./img/twitter-logo.png)](https://twitter.com/FCanselen)
+
+### Languages and Tools
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]

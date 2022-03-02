@@ -11,12 +11,17 @@
 - 👾 Hobbies: coding, gaming and Off-roading
 
 ### Connect with me:
+<!-- 
+[![website](./img/linkedin-logo-512x512.png)](https://www.linkedin.com/in/feridun-canselen-73666b200/) -->
+<img alt="linkedn" align="left" width="150px" src="./img/linkedin-logo-512x512.png" href="https://www.linkedin.com/in/feridun-canselen-73666b200/"/>
 
-[![website](./img/linkedin-logo-512x512.png)](https://www.linkedin.com/in/feridun-canselen-73666b200/)
+<!-- [![website](./img/twitter-logo.png)](https://twitter.com/FCanselen) -->
 
-[![website](./img/twitter-logo.png)](https://twitter.com/FCanselen)
+<img alt="twitter" width="150px" src="./img/twitter-logo.png" href="https://twitter.com/FCanselen"/>
 
-### Languages and Tools
+<br>
+
+## Languages and Tools
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 
@@ -34,11 +39,11 @@
 
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 
-
+<br>
 
 
  ##
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Feridun12&layout=compact)](https://github.com/Feridun12/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Feridun12&layout=compact)](https://github.com/Feridun12/github-readme-stats)
 
 
 ### Github stats

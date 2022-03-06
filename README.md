@@ -1,7 +1,7 @@
 # Hi there, I'm Feridun - aka [Feridun12] 👋 
 
 
-## I'm a Economist, Developer and Tech Enthusiast.
+## I'm an Economist, Developer and Tech Enthusiast.
 
 - 🔭 Aiming to become a successful junior developer
 - 🌱 I’m currently learning Web Development 🖥

@@ -15,13 +15,24 @@
 [![website](./img/linkedin-logo-512x512.png)](https://www.linkedin.com/in/feridun-canselen-73666b200/) -->
 <img alt="linkedn" align="left" width="150px" src="./img/linkedin-logo-512x512.png" href="https://www.linkedin.com/in/feridun-canselen-73666b200/"/>
 
-<!-- [![website](./img/twitter-logo.png)](https://twitter.com/FCanselen) -->
-
-<img alt="twitter" width="150px" src="./img/twitter-logo.png" href="https://twitter.com/FCanselen"/>
+<br>
 
 <br>
 
-## Languages and Tools
+<br>
+
+<!-- [![website](./img/twitter-logo.png)](https://twitter.com/FCanselen) -->
+
+<!-- <img alt="twitter" width="150px" src="./img/twitter-logo.png" href="https://twitter.com/FCanselen"/> -->
+
+<br>
+
+
+<br>
+
+<br>
+
+### Languages and Tools
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 

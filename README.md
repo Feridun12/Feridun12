@@ -13,8 +13,9 @@
 ### Connect with me:
 <!-- 
 [![website](./img/linkedin-logo-512x512.png)](https://www.linkedin.com/in/feridun-canselen-73666b200/) -->
+<a href="https://www.linkedin.com/in/feriduncanselen/" target="_blank">
 <img alt="linkedn" align="left" width="150px" src="./img/linkedin-logo-512x512.png" href="https://www.linkedin.com/in/feridun-canselen-73666b200/"/>
-
+</a>
 <br>
 
 <br>

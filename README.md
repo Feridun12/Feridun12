@@ -6,7 +6,7 @@
 - 🔭 Aiming to become a successful software developer
 - 🌱 I’m currently learning Web Development 🖥
 - 👯 I’m looking to collaborate on any web development project
-- 🥅 2022 Goals: Learn more about web development and join open-sourced projects
+- 🥅 2023 Goals: Learn more about web development and join open-sourced projects
 - 📝 Check out my [blog](https://hashnode.com/@Feridun)! 
 - 👾 Hobbies: coding, gaming and off-roading
 

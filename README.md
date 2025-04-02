@@ -3,6 +3,7 @@
 
 ## I'm an Economist, Developer and Tech Enthusiast.
 
+- 💻 [Portfolio](https://feridun-codes.com/)
 - 🔭 Aiming to become a successful software developer
 - 🌱 I’m currently learning Web Development 🖥
 - 👯 I’m looking to collaborate on any web development project
